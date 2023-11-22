@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{BAF19121-D05C-4D45-9C2B-8DDED47A9DDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{BAF19121-D05C-4D45-9C2B-8DDED47A9DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{8070E636-C293-4910-8DE5-3C6BB37C989D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BAF19121-D05C-4D45-9C2B-8DDED47A9DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAF19121-D05C-4D45-9C2B-8DDED47A9DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAF19121-D05C-4D45-9C2B-8DDED47A9DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8070E636-C293-4910-8DE5-3C6BB37C989D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8070E636-C293-4910-8DE5-3C6BB37C989D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8070E636-C293-4910-8DE5-3C6BB37C989D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8070E636-C293-4910-8DE5-3C6BB37C989D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
