@@ -6,7 +6,7 @@ This repository showcases an implementation of the Publisher-Subscriber design p
 
 The Publisher-Subscriber pattern is a behavioral design pattern that defines a one-to-many dependency between objects. In this pattern, multiple subscribers (listeners or observers) are registered to a publisher (subject or event source) to receive notifications about changes or events.
 
-This project demonstrates the implementation of this pattern in [Language/Technology] using [Framework/Libraries].
+This project demonstrates the implementation of this pattern in C# using Dotnet-core v6.0.
 
 ## Features
 
